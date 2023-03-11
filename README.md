@@ -32,10 +32,9 @@ ________________________________________________________________________________
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&layout=compact"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&theme=dark" />
 </picture> 
 
 _____________________________________________________________________________________________________________
 
-*>* [ⓘ Note:]() ***Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats.***  
+> [ⓘ Note:]() ***Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats.***  
 _____________________________________________________________________________________________________________
