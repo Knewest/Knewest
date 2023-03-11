@@ -1,11 +1,9 @@
 _____________________________________________________________________________________________________________
-I collect physical media (mostly Blu-rays) & love audio, video & image codecs.
+**I collect physical media (mostly Blu-rays) & love audio, video & image codecs.** <br>
+**I am 19 years old.** <br>
+**I am a Russian living in Australia.** <br>
 
-I am 19 years old.
-
-I am a Russian living in Australia.
-
-**⚠ 日本語も話せでも僕の日本語は良くない。**
+`⚠︎ 日本語も話せでも僕の日本語は良くない。`
 _____________________________________________________________________________________________________________
 
 <picture>
