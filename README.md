@@ -9,6 +9,7 @@ I am a Russian living in Australia.
 _____________________________________________________________________________________________________________
 
 <picture>
+
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=knewest&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -17,10 +18,12 @@ ________________________________________________________________________________
   srcset="https://github-readme-stats.vercel.app/api?username=knewest&show_icons=true"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img align="left" img src="https://github-readme-stats.vercel.app/api?username=knewest&show_icons=true" />
+<img align="right" img src="https://github-readme-stats.vercel.app/api?username=knewest&show_icons=true" />
+
 </picture>
 <br>
 <picture>
+
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&layout=compact&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -33,7 +36,10 @@ ________________________________________________________________________________
 
 </picture> 
 
-_____________________________________________________________________________________________________________
 
-> [ⓘ Note:]() ***Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats.***  
+> [ⓘ Note:]() <br>
+***The top languages do not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. <br>
+It is a new feature of github-readme-stats.***  
+
+
 _____________________________________________________________________________________________________________
