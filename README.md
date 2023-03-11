@@ -35,6 +35,7 @@ ________________________________________________________________________________
 <img align="right" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&layout=compact&theme=dark" />
 
 </picture> 
+<br><br><br><br><br><br><br><br><br><br>
 
 _____________________________________________________________________________________________________________
 
