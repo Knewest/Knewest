@@ -21,7 +21,6 @@ ________________________________________________________________________________
 <img align="right" img src="https://github-readme-stats.vercel.app/api?username=knewest&show_icons=true" />
 
 </picture>
-<br>
 <picture>
 
 <source 
