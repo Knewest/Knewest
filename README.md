@@ -29,10 +29,10 @@ ________________________________________________________________________________
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&theme=dark"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img align="right" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&theme=dark" />
+<img align="left" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&theme=dark" />
 
 </picture> 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 _____________________________________________________________________________________________________________
 
