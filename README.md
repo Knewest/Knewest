@@ -1,6 +1,6 @@
 _____________________________________________________________________________________________________________
 
-# I will be active for a week or more. Apologies if you need to contact me and I am unreachable. [6th/July/2023]
+### I will be active for a week or more. Apologies if you need to contact me and I am unreachable. [6th/July/2023]
 
 _____________________________________________________________________________________________________________
 **I collect physical media (mostly Blu-rays) & love audio, video & image codecs.** <br>
