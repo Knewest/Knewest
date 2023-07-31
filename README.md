@@ -1,5 +1,5 @@
 _____________________________________________________________________________________________________________
-EN: 
+EN:<br> 
 I'm Knew, a 19-year-old IT specialist and codec hobbyist from Russia, now living in Australia.
  
 I'm passionate about all things tech and love exploring audio and video codecs. 
@@ -7,7 +7,7 @@ When I'm not immersed in the digital world, you can find me collecting Blu-rays 
 
 I can speak/read English on a native level, speak Russian consistently (although, I can't read it), and am currently learning Japanese.
 
-JP:
+JP:<br>
 僕の名前はニュー、19歳のITスペシャリストで、ロシア出身のコーデックの趣味家です。今はオーストラリアに住んでいます。
 
 テクノロジー全般に情熱を持っており、オーディオやビデオのコーデックを探求するのが大好きです。
