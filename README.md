@@ -6,7 +6,7 @@ I'm passionate about all things tech and love exploring audio and video codecs.<
 When I'm not immersed in the digital world, you can find me collecting Blu-rays (BD), DVDs, CDs and other physical media.
 
 I can speak/read English on a native level, speak Russian consistently (although, I can't read it), and am currently learning Japanese.
-
+_____________________________________________________________________________________________________________
 JP:<br>
 僕の名前はニュー、19歳でロシア出身のIT専門家で、コーデックの趣味があります。現在はオーストラリアに住んでいます。
 
