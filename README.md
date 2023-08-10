@@ -47,7 +47,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________
 
 > [ⓘ Note:]() <br>
-***<ul>The top languages do not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It is a new feature of github-readme-stats.</ul>***
+***<ul>The top languages do not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on my GitHub.<br>It is a new feature of github-readme-stats.</ul>***
 
 
 _____________________________________________________________________________________________________________
