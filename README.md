@@ -1,9 +1,9 @@
 _____________________________________________________________________________________________________________
 ### EN:<br> 
-I'm Knew, a 22-year-old IT specialist and codec hobbyist from Russia, now living in Australia.
+I'm Knew, a 22-year-old IT specialist and codec technician from Russia, now living in Australia.
  
-I'm passionate about all things tech and love exploring audio and video codecs.<br> 
-When I'm not online, you can find me collecting Blu-rays (BD), DVDs, CDs, and other physical media.
+I'm passionate about all things tech, but have a particular skill-set with audio, video, and image codecs.<br> 
+Offline, I collect Blu-rays (BDs), DVDs, CDs, and other physical media.
 
 I can speak/read English on a native level, speak Russian consistently (although, I can't read it), and am currently learning Japanese.
 _____________________________________________________________________________________________________________
