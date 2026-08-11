@@ -60,4 +60,3 @@ English is native. I speak Russian but can't read it. Learning Japanese.
 
 > [!NOTE]
 > The language cards measure code sitting in my public repositories, not what I know or prefer. The list further up is the honest version.
-F:/MiscWorkspaceFolder/_tmp_logo_compare.html
