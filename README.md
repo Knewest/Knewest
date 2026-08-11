@@ -16,7 +16,7 @@ English is native. I speak Russian but can't read it. Learning Japanese.
 
 英語は母語です。ロシア語は話せますが、読めません。今、日本語を勉強しています。
 
-## Languages:
+## Skill-set:
 - <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" height="20" alt="" /> **PowerShell 7:** My favourite, and the one I'm best at.
 - <img src="https://devicons.io/devicons/icons/ffmpeg-icon.svg" height="20" alt="" /> **FFMPEG:** Extremely proficient with it.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="" /> **JavaScript:** Love and hate it. It's what I work with most.
