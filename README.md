@@ -1,55 +1,63 @@
-_____________________________________________________________________________________________________________
-### EN:<br> 
+## EN:
 I'm Knew, a 22-year-old IT specialist and codec technician from Russia, now living in Australia.
- 
-I'm passionate about all things tech, but have a particular skill-set with audio, video, and image codecs.<br> 
-Offline, I collect Blu-rays (BDs), DVDs, CDs, and other physical media.
 
-I can speak/read English on a native level, speak Russian consistently (although, I can't read it), and am currently learning Japanese.
-_____________________________________________________________________________________________________________
-### JP:<br>
-僕の名前はニュー、22歳でロシア出身のIT専門家で、コーデックの趣味があります。現在はオーストラリアに住んでいます。
+Audio, video, and image codecs are where most of my attention goes.
 
-テクノロジーに関する全てのことに情熱を持ち、音声や映像のコーデックを探求するのが大好きです<br>
-デジタルの世界に没頭していないときは、ブルーレイ（BD）、DVD、CDなどの物理メディアを集めています。
+I collect physical media. Mostly Blu-rays, plus DVDs and CDs.
 
-僕は英語を母語のように話し読むことができ、ロシア語も話すことができます（しかし、読むことはできません）。現在、日本語を学んでいます。
+English is native. I speak Russian but can't read it. Learning Japanese.
 
-_____________________________________________________________________________________________________________
+## JP:
+はじめまして。僕はニューです。22歳です。
 
-<picture>
+ロシアで生まれて、今はオーストラリアに住んでいます。仕事はITですが、コーデック（音声、映像、画像）が一番好きです。
 
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=knewest&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=knewest&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img align="right" img src="https://github-readme-stats.vercel.app/api?username=knewest&show_icons=true" />
+趣味はブルーレイやDVD、CDを集めることです。
 
-</picture>
-<picture>
+英語は母語です。ロシア語は話せますが、読めません。今、日本語を勉強しています。
 
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&theme=dark"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img align="left" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knewest&langs_count=8&theme=dark" />
+## Languages:
+- <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" height="20" alt="" /> **PowerShell 7:** My favourite, and the one I'm best at.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="" /> **JavaScript:** Love and hate it. It's what I work with most.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="" /> **React:** Fairly proficient with it.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" height="20" alt="" /> **SolidJS:** Likewise.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="20" alt="" /> **Lua:** Proficient with it. Most of my use has been in Roblox Studio.
+- <img src="https://cdn.simpleicons.org/autohotkey/334455/DDDDDD" height="20" alt="" /> **AutoHotkey v1:** Proficient with it.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="" /> **HTML5:** Know it.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="" /> **CSS:** Know it.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="" /> **C++:** I can code with it, mainly for Windows systems and APIs.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="" /> **C#:** Same territory as C++, though I usually end up reaching for C++ instead.
+- <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="20" alt="" /> **Assembly:** Most of my experience came from a C++ kernel driver patch on Windows 11.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="" /> **Java:** Minecraft mods, and not much outside of that.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="" /> **TypeScript:** Never had much interest in it, but I can work with it.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="" /> **Python:** Never bothered to fully learn it. Wish it didn't exist.
 
-</picture> 
-<br><br><br><br><br><br><br><br><br>
+## Stats:
+<div align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knewest&theme=github_dark" />
+		<img alt="knewest's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knewest&theme=github" />
+	</picture>
+</div>
 
-_____________________________________________________________________________________________________________
+<div align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=knewest&theme=github-dark&hide_border=true" />
+		<img alt="knewest's contribution streak" src="https://streak-stats.demolab.com?user=knewest&hide_border=true" />
+	</picture>
+</div>
 
-> [ⓘ Note:]() <br>
-***<ul>The top languages do not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on my GitHub.<br>It is a new feature of github-readme-stats.</ul>***
+<div align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knewest&theme=github_dark" />
+		<img alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knewest&theme=github" />
+	</picture>
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knewest&theme=github_dark" />
+		<img alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knewest&theme=github" />
+	</picture>
+</div>
 
-
-_____________________________________________________________________________________________________________
-
+> [!NOTE]
+> The language cards measure code sitting in my public repositories, not what I know or prefer. The list further up is the honest version.
+F:/MiscWorkspaceFolder/_tmp_logo_compare.html
