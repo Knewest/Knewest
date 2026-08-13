@@ -22,7 +22,7 @@ English is native. I speak Russian but can't read it. Learning Japanese.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="" /> **JavaScript:** Love and hate it. It's what I work with most.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="" /> **React:** Fairly proficient with it.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" height="20" alt="" /> **SolidJS:** Likewise.
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="20" alt="" /> **Lua:** Proficient with it. Most of my use has been in Roblox Studio.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="20" alt="" /> **Lua:** My first ever learned language. Proficient with it. Most of my use has been in Roblox Studio.
 - <img src="https://cdn.simpleicons.org/autohotkey/334455/DDDDDD" height="20" alt="" /> **AutoHotkey v1:** Proficient with it.
 - <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_bat.svg" height="20" alt="" /> **Batch:** Very proficient with it.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="" /> **HTML5:** Know it.
